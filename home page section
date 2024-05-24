@@ -1,0 +1,9 @@
+<section id="home" class="hero">
+    <div class="container">
+        <div class="hero-content">
+            <h1>Building the Future Today</h1>
+            <p>Your trusted partner in Construction Management, Geological Explorations, and Drilling</p>
+            <a href="#about" class="cta-button">Learn More</a>
+        </div>
+    </div>
+</section>
