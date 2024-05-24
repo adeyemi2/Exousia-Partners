@@ -1,0 +1,14 @@
+<section id="projects">
+    <div class="container">
+        <h2>Our Projects</h2>
+        <div class="project-carousel">
+            <!-- Example Project -->
+            <div class="project-item">
+                <img src="project1.jpg" alt="Project 1">
+                <h3>Project Title 1</h3>
+                <p>Brief description of the project...</p>
+            </div>
+            <!-- More project items -->
+        </div>
+    </div>
+</section>
