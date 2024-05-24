@@ -1,0 +1,22 @@
+<section id="services">
+    <div class="container">
+        <h2>Our Services</h2>
+        <div class="services-grid">
+            <div class="service">
+                <img src="construction.jpg" alt="Construction Management">
+                <h3>Construction Management</h3>
+                <p>We manage all aspects of construction projects from planning to execution.</p>
+            </div>
+            <div class="service">
+                <img src="geological.jpg" alt="Geological Explorations and Drilling">
+                <h3>Geological Explorations and Drilling</h3>
+                <p>We provide comprehensive geological exploration and drilling services.</p>
+            </div>
+            <div class="service">
+                <img src="earthmoving.jpg" alt="Earthmoving Operations">
+                <h3>Earthmoving Operations</h3>
+                <p>Our earthmoving operations are efficient and reliable, ensuring your project's success.</p>
+            </div>
+        </div>
+    </div>
+</section>
